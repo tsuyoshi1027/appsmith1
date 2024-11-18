@@ -1,0 +1,57 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 109,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "h5qan5xumk",
+  "leftColumn": 48,
+  "minWidth": 120,
+  "mobileBottomRow": 62,
+  "mobileLeftColumn": 47,
+  "mobileRightColumn": 63,
+  "mobileTopRow": 58,
+  "needsErrorInfo": false,
+  "onClick": "{{numElement2.numStore()}}",
+  "originalBottomRow": 110,
+  "originalTopRow": 106,
+  "parentColumnSpace": 13.44677734375,
+  "parentId": "trc86957uk",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 64,
+  "text": "Next Page",
+  "topRow": 105,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "tlmaivhz2j",
+  "widgetName": "nextButton"
+}
